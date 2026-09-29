@@ -1,12 +1,12 @@
-#Wed Sep 30 00:46:28 IRKT 2026
-base.0=C\:\\android\\finni_android_v2(5)\\finni_android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=C\:\\android\\finni_android_v2(5)\\finni_android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=C\:\\android\\finni_android_v2(5)\\finni_android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
-base.3=C\:\\android\\finni_android_v2(5)\\finni_android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
-base.4=C\:\\android\\finni_android_v2(5)\\finni_android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
-base.5=C\:\\android\\finni_android_v2(5)\\finni_android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
-base.6=C\:\\android\\finni_android_v2(5)\\finni_android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.7=C\:\\android\\finni_android_v2(5)\\finni_android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
+#Wed Sep 30 01:29:40 IRKT 2026
+base.0=C\:\\Users\\Valeria\\Desktop\\finni_android_final\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Valeria\\Desktop\\finni_android_final\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\Valeria\\Desktop\\finni_android_final\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.3=C\:\\Users\\Valeria\\Desktop\\finni_android_final\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.4=C\:\\Users\\Valeria\\Desktop\\finni_android_final\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.5=C\:\\Users\\Valeria\\Desktop\\finni_android_final\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
+base.6=C\:\\Users\\Valeria\\Desktop\\finni_android_final\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.7=C\:\\Users\\Valeria\\Desktop\\finni_android_final\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=2/classes.dex
