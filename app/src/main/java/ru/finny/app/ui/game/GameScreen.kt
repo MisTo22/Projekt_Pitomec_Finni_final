@@ -182,7 +182,7 @@ private fun AgeScreen(vm: GameViewModel) {
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center,
     ) {
-        Text("ПОДОБЕРЁМ ЗАДАНИЯ ПО ВОЗРАСТУ", fontSize = 11.sp, fontWeight = FontWeight.ExtraBold,
+        Text("ПОДБЕРЕМ ЗАДАНИЯ ПО ВОЗРАСТУ", fontSize = 11.sp, fontWeight = FontWeight.ExtraBold,
             color = Color.White.copy(alpha = .7f), letterSpacing = 1.2.sp)
         Text("Сколько тебе лет?", fontSize = 28.sp, fontWeight = FontWeight.Black, color = Color.White,
             modifier = Modifier.padding(top = 6.dp, bottom = 18.dp))
